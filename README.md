@@ -12,12 +12,18 @@ A telegram bot for providing price signals for crypto markets listed in  `Binanc
 
 2. install the packages
 
-    `$ pip install -r requirements.txt`
+    ```
+        $ pip install -r requirements.txt
+    ```
 
 3. run the `main.py`
 
-    `$ python main.py`
+    ```
+        $ python main.py
+    ```
 
 4. check the `bot.log` for logs
 
-    `$ tail -f bot.log`
+    ```
+        $ tail -f bot.log
+    ```
