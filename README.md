@@ -5,8 +5,10 @@ A telegram bot for providing price signals for crypto markets listed in  `Binanc
 
 1. create a virtual environment, activate it. (check your operating system specific instructions. the following is good if you're running OSX and *nix)
 
-    `$ virtualenv .venv`
-    `$ . .venv/bin/activate`
+    ```
+        $ virtualenv .venv
+        $ . .venv/bin/activate
+    ```
 
 2. install the packages
 
